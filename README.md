@@ -34,3 +34,9 @@ no_of_jumps.py
 max_profit.py
 binary_addition.py
 anagrams.py
+array string.py
+non teachingstaff.py
+remove character.py
+Roman to integer.py
+smaller current number.py
+valid palindrome.py
