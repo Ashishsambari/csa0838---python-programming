@@ -24,3 +24,13 @@ season.py
 simple intrest.py
 solving a quadratic equation.py
 sum of n numbers.py
+permutaions.py
+project_manager.py
+regular_expression_.py
+min_opeararions_rqr_to_convert_into_word1.
+mirror_image.py
+no_of_good_pairs.py
+no_of_jumps.py
+max_profit.py
+binary_addition.py
+anagrams.py
