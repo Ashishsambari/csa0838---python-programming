@@ -40,3 +40,7 @@ remove character.py
 Roman to integer.py
 smaller current number.py
 valid palindrome.py
+Lexicographical sort of vowels.py
+Minimum number of jumps.py
+scramble string.py
+Season.py
