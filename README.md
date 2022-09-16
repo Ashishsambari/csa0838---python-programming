@@ -46,3 +46,10 @@ scramble string.py
 Season.py
 longest sub string.py
 peak element.py
+employee salary
+function shuffel
+last word in the string
+perfect square number
+reverse word in a string
+triangular array
+
